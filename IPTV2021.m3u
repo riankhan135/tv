@@ -36,3 +36,6 @@ http://211.220.195.200:1935/live/mp4:KnnTV.sdp/eroz_brebes.m3u8
 
 #EXTINF:-1 tvg-logo="logo" group-title="INDONESIA",joycorp
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title=Indonesialokal",NETTV
+https://etslive-2-vidio-com.akamaized.net/exp=1639607618~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=0f796b45c0b521b72b8f1089e93340c26f17fe31ccce1c1c852b56121b8dcb92/vp9/204_stream.mpd
