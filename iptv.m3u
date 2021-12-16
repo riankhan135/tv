@@ -1,1 +1,180 @@
+#EXTM3U
+#EXTINF:-1,CNBC Indonesia group-title="NASIONAL",CNBC Indonesia
+http://103.30.87.238:443/triaal/gratisan/92
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NASIONAL", RCTI
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",RCTI (vision)
+https://liveanevia.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",GTV (vision)
+https://liveanevia.mncnow.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6J9ZhPcm2bkBAxRHFFujiFjCDl0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png" group-title="NASIONAL", Trans7
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" group-title="NASIONAL", TRANS TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",SCTV (vision)
+https://liveanevia.mncnow.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",TV One (vision)
+https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",Indosiar (vision)
+https://liveanevia.mncnow.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
+#EXTINF:-1,TVRI group-title="NASIONAL",TVRI
+http://103.30.87.238:443/triaal/gratisan/102
+#EXTINF:-1,Berita Satu group-title="NASIONAL",Berita Satu
+http://103.30.87.238:443/triaal/gratisan/570
+#EXTINF:-1,CNN Indonesia group-title="NASIONAL",CNN Indonesia
+http://103.30.87.238:443/triaal/gratisan/581
+#EXTINF:-1,METROTV group-title="NASIONAL",METROTV
+http://103.30.87.238:443/triaal/gratisan/32
+#EXTINF:-1,ANTV group-title="NASIONAL",ANTV
+http://103.30.87.238:443/triaal/gratisan/891
+#EXTINF:-1,KompasTV group-title="NASIONAL",KompasTV
+http://103.30.87.238:443/triaal/gratisan/809
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="NASIONAL",O channel
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+#EXTINF:-1,Al Jazeera group-title="NEWS",Al Jazeera
+http://103.30.87.238:443/triaal/gratisan/95
+#EXTINF:-1,BBC News group-title="NEWS",BBC NEWS
+http://103.30.87.238:443/triaal/gratisan/97
+#EXTINF:-1,CBS Network group-title="NEWS",CBS
+http://103.30.87.238:443/triaal/gratisan/792
+#EXTINF:-1,Channel News Asia group-title="NEWS",CHANNEL NEWS ASIA
+http://103.30.87.238:443/triaal/gratisan/1300
+#EXTINF:-1,Horee
+http://103.30.87.238:443/triaal/gratisan/1199
+#EXTINF:-1,Discovery Channel
+http://103.30.87.238:443/triaal/gratisan/1296
+#EXTINF:-1,KBS World
+http://103.30.87.238:443/triaal/gratisan/601
+#EXTINF:-1,Movie+
+http://103.30.87.238:443/triaal/gratisan/1144
+#EXTINF:-1,Anime+
+http://103.30.87.238:443/triaal/gratisan/1151
+#EXTINF:-1,Drama+
+http://103.30.87.238:443/triaal/gratisan/1152
+#EXTINF:-1,ATCS Kota Bandung - SP Moh. Toha
+http://103.30.87.238:443/triaal/gratisan/1402
+#EXTINF:-1,ATCS Kota Bandung - SP Kopo
+http://103.30.87.238:443/triaal/gratisan/1405
+#EXTINF:-1,ATCS Kota Bandung - SP Pasir Koja
+http://103.30.87.238:443/triaal/gratisan/1407
+#EXTINF:-1,ATCS Kota Bandung - SP Cibeureum
+http://103.30.87.238:443/triaal/gratisan/1408
+#EXTINF:-1,ATCS Kota Bandung - SP Tamblong
+http://103.30.87.238:443/triaal/gratisan/1412
+#EXTINF:-1,ATCS Kota Bandung - SP Tol Pasteur
+http://103.30.87.238:443/triaal/gratisan/1417
+#EXTINF:-1,Arirang group-title="KIDS",ARIRANG
+http://103.30.87.238:443/triaal/gratisan/738
+#EXTINF:-1,Cbeebies group-title="KIDS",CBEEBIES
+http://103.30.87.238:443/triaal/gratisan/1276
+#EXTINF:-1,My Kids group-title="KIDS",MY KIDS
+http://103.30.87.238:443/triaal/gratisan/1382
+#EXTINF:-1,Zoomoo group-title="KIDS",ZOOMOO
+http://103.30.87.238:443/triaal/gratisan/1387
+#EXTINF:0 tvg-id="SmithsonianChannel.uk" group-title="KNOWLEDGE",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Love Nature group-title="KNOWLEDGE",LOVE NATURE
+http://103.30.87.238:443/triaal/gratisan/64
+#EXTINF:-1,Fashion TV group-title="KNOWLEDGE",FASHION TV
+http://103.30.87.238:443/triaal/gratisan/404
+#EXTINF:-1,CNC group-title="KNOWLEDGE",CNC
+http://103.30.87.238:443/triaal/gratisan/1397
+#EXTINF:-1,Phoenix group-title="KNOWLEDGE",PHOENIX
+http://103.30.87.238:443/triaal/gratisan/1466
+#EXTINF:-1,TRT World group-title="KNOWLEDGE",TRT WORLD
+http://103.30.87.238:443/triaal/gratisan/1467
+#EXTINF:-1,CGTN group-title="KNOWLEDGE",CGTN
+http://103.30.87.238:443/triaal/gratisan/1553
+#EXTINF:-1,Sport+ group-title="SPORTS",Sport+
+http://103.30.87.238:443/triaal/gratisan/1274
+#EXTINF:-1,Sport+ 3 group-title="SPORTS",Sport+3
+http://103.30.87.238:443/triaal/gratisan/1448
+#EXTINF:-1,Sport+ 2 group-title="SPORTS",Sport+2
+http://103.30.87.238:443/triaal/gratisan/1337
+#EXTINF:-1 tvg-id="Arena" tvg-name="ASTRO ARENA" tvg-logo="https://nuvella.my.id/logo/MVTV_LOGO/SPORTS/ASTROARENA.png" group-title="SPORTS",ASTRO ARENA
+http://aptv.my.id:8080/@Valee46/@Valee46/133
+#EXTINF:-1 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2 ID" tvg-logo="https://nuvella.my.id/logo/MVTV_LOGO/SPORTS/BEINSPORTS2.png" group-title="SPORTS",beIN Sports 2 ID
+http://aptv.my.id:8080/@Valee46/@Valee46/135
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="SPORTS",champ1=roll(dec=native)
+https://etus.link/champ1roll?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="SPORTS",champ2=roll(dec=native)
+https://etus.link/champ2roll?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="SPORTS",champ3=roll(dec=native)
+https://etus.link/champ3roll?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",MNC SPORTS
+https://etus.link/izzatmncsport?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",CHAMPIONTV1(b)
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
+https://dik.si/champion1?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",CHAMPIONTV2(b)
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
+https://dik.si/champion2?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",CHAMPIONTV3(b)
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
+https://dik.si/champion3?shareext.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 1HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="SPORTS",BeinSport 1HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6872
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 2HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="SPORTS",BeinSport 2HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6871
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 3HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="SPORTS",BeinSport 3HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6870
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 4HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="SPORTS",BeinSport 4HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6869
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 5HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="SPORTS",BeinSport 2SD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6868
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN 1 HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",TEN 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: TEN 1" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",TEN 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/171
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: TEN 3" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",TEN 3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: TEN 2" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SPORTS",TEN 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="Movies",CELESTIAL MOVIES
+https://lnk.ec/CelestialM?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="Movies",HBO
+https://lnk.ec/HBOHD?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",SCTV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",Indosiar_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",Trans7_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f16a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",MNC Shop_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d6a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",MUSICA_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc8266a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",RTV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a6a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",iNews _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf16a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",OShop_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb0896a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",MYTV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be6a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",ANTV_DENS
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",TVONE_DENS
+http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",DAAITV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d36a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",NUSANTARA TV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e446a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",SEATODAY_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=89db09d856d45d361982edc10ce738a26a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",AlQuran AlKareem TV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a6a41c2a2a7270517f5ce8dd2f48fc68d
